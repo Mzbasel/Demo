@@ -1,0 +1,12 @@
+/Users/zeynepsel/Projects/Demo/Demo/bin/Debug/netcoreapp3.1/Demo.deps.json
+/Users/zeynepsel/Projects/Demo/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.json
+/Users/zeynepsel/Projects/Demo/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.dev.json
+/Users/zeynepsel/Projects/Demo/Demo/bin/Debug/netcoreapp3.1/Demo.dll
+/Users/zeynepsel/Projects/Demo/Demo/bin/Debug/netcoreapp3.1/Demo.pdb
+/Users/zeynepsel/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.csprojAssemblyReference.cache
+/Users/zeynepsel/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfoInputs.cache
+/Users/zeynepsel/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfo.cs
+/Users/zeynepsel/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CoreCompileInputs.cache
+/Users/zeynepsel/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.dll
+/Users/zeynepsel/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.pdb
+/Users/zeynepsel/Projects/Demo/Demo/obj/Debug/netcoreapp3.1/Demo.genruntimeconfig.cache
